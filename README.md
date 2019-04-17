@@ -36,3 +36,8 @@ but the default filename of codebook is codebook.txt
 
 the default filename of decoded file is output.txt
 
+# Example
+
+here is an example about compiling the code and using it to encode and decode file 'example/book.txt'.
+
+[![1:39](http://img.youtube.com/vi/7GttPQ7yFuw/0.jpg)](http://www.youtube.com/watch?v=7GttPQ7yFuw "Huffman")
