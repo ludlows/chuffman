@@ -1,9 +1,14 @@
 # chuffman
-huffman coding implemented in C for educational purpose.
+
+huffman coding implemented in C for educational purpose from scratch.
+
+Using Encoding Tree and Decoding Tree to achieve information compression and Compression.
+
+The code works well with ASCII texts. 
 
 # usage
 
-$gcc *.c -o chuffman
+$gcc *.c -o chuffman -Wall
 
 $./chuffman
 
