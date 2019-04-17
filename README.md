@@ -2,6 +2,32 @@
 huffman coding implemented in C for educational purpose.
 
 # usage
+
 $gcc *.c -o chuffman
+
 $./chuffman
+
+## for huffman encoding
+
+$./chuffman -e book.txt -b codebook.txt -o encoded.txt
+
+you can also use 
+
+$./chuffman -e book.txt
+
+but the default filename of codebook is codebook.txt
+
+the default filename of encoded file is output.txt
+
+## for huffman decoding
+
+$./chuffman -d encoded.txt -b codebook.txt -o origin.txt
+
+you can also use
+
+$./chuffman -d encoded.txt
+
+but the default filename of codebook is codebook.txt
+
+the default filename of decoded file is output.txt
 
