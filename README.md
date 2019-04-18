@@ -2,7 +2,7 @@
 
 huffman coding implemented in C for educational purpose from scratch.
 
-Using Encoding Tree and Decoding Tree to achieve information compression and Compression.
+Using Encoding Tree and Decoding Tree to achieve information Compression and Extraction.
 
 The code works well with ASCII texts. 
 
